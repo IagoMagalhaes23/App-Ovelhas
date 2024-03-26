@@ -11,3 +11,6 @@
 ## Equipe
 - Iago
 - Amanda
+
+## Links úteis
+- [Overleaf do artigo](https://www.overleaf.com/8338639921nvwmrnfbsgxm#d70f2f)
